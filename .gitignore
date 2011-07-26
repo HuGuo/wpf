@@ -1,4 +1,6 @@
 
+NewFolder1/*
+UserControl1.xaml
 app.xaml
 #ignore thumbnails created by windows
 Thumbs.db
@@ -28,3 +30,4 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
+WpfBrowserApplication1/UserControl1.xaml.cs
