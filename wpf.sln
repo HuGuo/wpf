@@ -1,7 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBrowserApplication1", "WpfBrowserApplication1\WpfBrowserApplication1.csproj", "{96D5C078-C2D5-4E14-840E-839CDF553E9C}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D5C078-C2D5-4E14-840E-839CDF553E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D5C078-C2D5-4E14-840E-839CDF553E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D5C078-C2D5-4E14-840E-839CDF553E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D5C078-C2D5-4E14-840E-839CDF553E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
