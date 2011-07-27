@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace WpfBrowserApplication1
 {
     /// <summary>
-    /// Interaction logic for UserControl1.xaml
+    /// Interaction logic for Page1.xaml
     /// </summary>
-    public partial class UserControl1 : UserControl
+    public partial class Page1 : Page
     {
-        public UserControl1()
+        public Page1()
         {
             InitializeComponent();
         }
