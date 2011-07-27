@@ -4,7 +4,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>55e1952c-4cc6-4b28-ab7a-caaada7b8c7b</ProjectGuid>
+    <ProjectGuid>{96D5C078-C2D5-4E14-840E-839CDF553E9C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WpfBrowserApplication1</RootNamespace>
